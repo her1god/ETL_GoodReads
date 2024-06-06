@@ -1,4 +1,4 @@
-Untuk menambahkan cara menjalankan proyek Anda di file README GitHub, Anda dapat mengikuti langkah-langkah berikut:
+Ikuti langkah-langkah berikut:
 
 1. **Unduh dataset**: Tambahkan bagian di README yang menjelaskan cara mengunduh dataset. Anda dapat menyertakan link ke Google Drive atau tempat penyimpanan lainnya, serta memberikan instruksi tentang cara mengunduh dan menempatkan dataset di dalam proyek.
 
@@ -43,5 +43,3 @@ Untuk menambahkan cara menjalankan proyek Anda di file README GitHub, Anda dapat
     python main.py
     ```
     ```
-
-Dengan menambahkan panduan langkah demi langkah seperti di atas, pengguna proyek Anda akan lebih mudah memahami cara menjalankannya. Pastikan untuk memberikan instruksi yang jelas dan lengkap agar tidak ada kebingungan.
