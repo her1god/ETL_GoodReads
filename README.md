@@ -21,10 +21,15 @@ Ikuti langkah-langkah berikut:
 
     ```
     POSTGRES_USER=your_username
+
     POSTGRES_PASSWORD=your_password
+
     POSTGRES_HOST=your_host
+
     POSTGRES_PORT=your_port
+
     POSTGRES_DB=your_database
+
     ```
 
     Pastikan untuk mengganti `your_username`, `your_password`, `your_host`, `your_port`, dan `your_database` dengan informasi koneksi PostgreSQL Anda.
